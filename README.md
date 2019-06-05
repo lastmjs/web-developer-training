@@ -76,3 +76,23 @@ HTML, CSS, and JavaScript must be mastered first. Together they provide markup a
   - [ ] [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA&list=PL7664379246A246CB&index=7&t=0s)
   - [ ] [Crockford on JavaScript - Level 7: ECMAScript 5: The New Parts](https://www.youtube.com/watch?v=UTEqr0IlFKY&list=PL7664379246A246CB&index=8&t=0s)
   - [ ] [Crockford on JavaScript - Section 8: Programming Style & Your Brain](https://www.youtube.com/watch?v=taaEzHI9xyY&list=PL7664379246A246CB&index=9&t=0s)
+
+### Lesson 2 - Tools and Environments
+
+#### Dependency/package management (npm)
+
+#### Programming environments (Node.js, Deno, browsers)
+
+#### Version control (Git/GitHub)
+
+### Lesson 3 - Building Applications
+
+#### Component model (web components)
+
+#### Templating/data binding (lit-html)
+
+#### State management (Redux, GraphQL, persistent storage)
+
+#### Static type system (TypeScript)
+
+#### Networking (http, websockets, GraphQL, REST, ?)
