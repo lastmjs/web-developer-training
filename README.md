@@ -10,7 +10,7 @@ I will personally mentor you for $500 per month. Mentorship includes 4 one-hour 
 * Twitter: @lastmjs
 * Telegram: @lastmjs
 
-I've poured my heart and soul into organizing this course. It reflects all of my years of study and practice. My name is Jordan Last, and I'm a full stack web application developer.
+I've poured my heart and soul into organizing this course. It reflects all of my years of study and practice. It is what I will be using to train new developers who work with me. Whenever people ask for the best way to learn web development, this is where I'll lead them. My name is Jordan Last, and I'm a full stack web application developer.
 
 If you want to learn more about me:
 
