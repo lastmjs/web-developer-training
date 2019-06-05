@@ -21,3 +21,17 @@ If you want to learn more about me:
 ## The Course
 
 Master the first principles of modern web application development, concept by concept.
+
+### Lesson 1 - Standalone Fundamentals
+
+HTML, CSS, and JavaScript must be mastered first. Together they provide markup and structure, presentation and styling, and programmability and behavior, respectively. These three languages combined are the foundation to building powerful applications on all major platforms and operating systems.
+
+#### HTML and CSS
+
+- [ ] HTML & CSS is Hard
+
+#### JavaScript
+
+- [ ] Eloquent JavaScript
+
+- [ ] 
