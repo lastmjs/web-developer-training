@@ -33,7 +33,6 @@ HTML, CSS, and JavaScript must be mastered first. Together they provide markup a
   - [ ] [learnyouhtml](https://github.com/denysdovhan/learnyouhtml)
 
 #### JavaScript
-
 - [ ] [Eloquent JavaScript](https://eloquentjavascript.net/index.html)
   - [ ] [Introduction](https://eloquentjavascript.net/00_intro.html)
   - [ ] [1. Values, Types, and Operators](https://eloquentjavascript.net/01_values.html)
@@ -57,7 +56,6 @@ HTML, CSS, and JavaScript must be mastered first. Together they provide markup a
   - [ ] [19. Project: A Pixel Art Editor](https://eloquentjavascript.net/19_paint.html)
   - [ ] [20. Node.js](https://eloquentjavascript.net/20_node.html)
   - [ ] [21. Project: Skill-Sharing Website](https://eloquentjavascript.net/21_skillsharing.html)
-
 - [ ] [Nodeschool workshops](https://nodeschool.io)
   - [ ] [javascripting](https://github.com/workshopper/javascripting)
   - [ ] [Functional JavaScript](https://github.com/timoxley/functional-javascript-workshop)
