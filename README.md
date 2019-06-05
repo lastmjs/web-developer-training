@@ -32,6 +32,26 @@ HTML, CSS, and JavaScript must be mastered first. Together they provide markup a
 
 #### JavaScript
 
-- [ ] Eloquent JavaScript
-
-- [ ] 
+- [ ] [Eloquent JavaScript](https://eloquentjavascript.net/index.html)
+  - [ ] [Introduction](https://eloquentjavascript.net/00_intro.html)
+  - [ ] [1. Values, Types, and Operators](https://eloquentjavascript.net/01_values.html)
+  - [ ] [2. Program Structure](https://eloquentjavascript.net/02_program_structure.html)
+  - [ ] [3. Functions](https://eloquentjavascript.net/03_functions.html)
+  - [ ] [4. Data Structures: Objects and Arrays](https://eloquentjavascript.net/04_data.html)
+  - [ ] [5. Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html)
+  - [ ] [6. The Secret Life of Objects](https://eloquentjavascript.net/06_object.html)
+  - [ ] [7. Project: A Robot](https://eloquentjavascript.net/07_robot.html)
+  - [ ] [8. Bugs and Errors](https://eloquentjavascript.net/08_error.html)
+  - [ ] [9. Regular Expressions](https://eloquentjavascript.net/09_regexp.html)
+  - [ ] [10. Modules](https://eloquentjavascript.net/10_modules.html)
+  - [ ] [11. Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
+  - [ ] [12. Project: A Programming Language](https://eloquentjavascript.net/12_language.html)
+  - [ ] [13. JavaScript and the Browser](https://eloquentjavascript.net/13_browser.html)
+  - [ ] [14. The Document Object Model](https://eloquentjavascript.net/14_dom.html)
+  - [ ] [15. Handling Events](https://eloquentjavascript.net/15_event.html)
+  - [ ] [16. Project: A Platform Game](https://eloquentjavascript.net/16_game.html)
+  - [ ] [17. Drawing on Canvas](https://eloquentjavascript.net/17_canvas.html)
+  - [ ] [18. HTTP and Forms](https://eloquentjavascript.net/18_http.html)
+  - [ ] [19. Project: A Pixel Art Editor](https://eloquentjavascript.net/19_paint.html)
+  - [ ] [20. Node.js](https://eloquentjavascript.net/20_node.html)
+  - [ ] [21. Project: Skill-Sharing Website](https://eloquentjavascript.net/21_skillsharing.html)
