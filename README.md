@@ -26,6 +26,10 @@ Master the first principles of modern web application development, concept by co
 
 HTML, CSS, and JavaScript must be mastered first. Together they provide markup and structure, presentation and styling, and programmability and behavior, respectively. These three languages combined are the foundation to building powerful applications on all major platforms and operating systems.
 
+#### Project
+
+Build a simple calculator with HTML, CSS, and JavaScript. Keep it all in one file and host it on GitHub pages. Here's what it will look like: https://lastmjs.github.io/mwaa-lesson-1/
+
 #### HTML and CSS
 
 - [ ] [HTML & CSS is Hard](https://internetingishard.com/html-and-css/)
