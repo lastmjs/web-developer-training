@@ -29,6 +29,8 @@ HTML, CSS, and JavaScript must be mastered first. Together they provide markup a
 #### HTML and CSS
 
 - [ ] HTML & CSS is Hard
+- [ ] [Nodeschool workshops](https://nodeschool.io)
+  - [ ] [learnyouhtml](https://github.com/denysdovhan/learnyouhtml)
 
 #### JavaScript
 
@@ -55,3 +57,13 @@ HTML, CSS, and JavaScript must be mastered first. Together they provide markup a
   - [ ] [19. Project: A Pixel Art Editor](https://eloquentjavascript.net/19_paint.html)
   - [ ] [20. Node.js](https://eloquentjavascript.net/20_node.html)
   - [ ] [21. Project: Skill-Sharing Website](https://eloquentjavascript.net/21_skillsharing.html)
+
+- [ ] [Nodeschool workshops](https://nodeschool.io)
+  - [ ] [javascripting](https://github.com/workshopper/javascripting)
+  - [ ] [Functional JavaScript](https://github.com/timoxley/functional-javascript-workshop)
+  - [ ] [Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
+  - [ ] [Count to 6](https://github.com/domenic/count-to-6)
+  - [ ] [Tower of babel](https://github.com/yosuke-furukawa/tower-of-babel)
+  - [ ] [Currying in JavaScript](https://github.com/kishorsharma/currying-workshopper)
+  - [ ] [JavaScript Best Practices](https://github.com/excellalabs/js-best-practices-workshopper)
+  - [ ] [Scope Chains & Closures](https://github.com/workshopper/scope-chains-closures)
