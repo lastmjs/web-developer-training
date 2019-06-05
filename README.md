@@ -66,3 +66,13 @@ HTML, CSS, and JavaScript must be mastered first. Together they provide markup a
   - [ ] [Currying in JavaScript](https://github.com/kishorsharma/currying-workshopper)
   - [ ] [JavaScript Best Practices](https://github.com/excellalabs/js-best-practices-workshopper)
   - [ ] [Scope Chains & Closures](https://github.com/workshopper/scope-chains-closures)
+  
+- [ ] [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB)
+  - [ ] [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB&index=2&t=1s)
+  - [ ] [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY&list=PL7664379246A246CB&index=3&t=0s)
+  - [ ] [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM&list=PL7664379246A246CB&index=4&t=0s)
+  - [ ] [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M&list=PL7664379246A246CB&index=5&t=0s)
+  - [ ] [Crockford on JavaScript - Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI&list=PL7664379246A246CB&index=6&t=0s)
+  - [ ] [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA&list=PL7664379246A246CB&index=7&t=0s)
+  - [ ] [Crockford on JavaScript - Level 7: ECMAScript 5: The New Parts](https://www.youtube.com/watch?v=UTEqr0IlFKY&list=PL7664379246A246CB&index=8&t=0s)
+  - [ ] [Crockford on JavaScript - Section 8: Programming Style & Your Brain](https://www.youtube.com/watch?v=taaEzHI9xyY&list=PL7664379246A246CB&index=9&t=0s)
