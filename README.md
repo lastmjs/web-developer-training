@@ -104,7 +104,7 @@ Build a simple calculator with HTML, CSS, and JavaScript. Keep it all in one fil
 
 #### Version control (Git/GitHub)
 
-### Lesson 3 - Building Applications
+### Lesson 3 - Application Architecture
 
 #### Component model (web components)
 
