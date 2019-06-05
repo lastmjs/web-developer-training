@@ -1,6 +1,6 @@
 # Web Developer Training
 
-This is a completely free and open source web developer training course. It is self-paced and requires self-motivation. For those interested, I do offer mentorship.
+This is a free and open source web developer training course. It is based on freely available materials. It is self-paced and requires self-motivation. For those interested, I do offer mentorship.
 
 ## Mentorship
 
