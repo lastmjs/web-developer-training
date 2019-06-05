@@ -56,6 +56,7 @@ HTML, CSS, and JavaScript must be mastered first. Together they provide markup a
   - [ ] [19. Project: A Pixel Art Editor](https://eloquentjavascript.net/19_paint.html)
   - [ ] [20. Node.js](https://eloquentjavascript.net/20_node.html)
   - [ ] [21. Project: Skill-Sharing Website](https://eloquentjavascript.net/21_skillsharing.html)
+  
 - [ ] [Nodeschool workshops](https://nodeschool.io)
   - [ ] [javascripting](https://github.com/workshopper/javascripting)
   - [ ] [Functional JavaScript](https://github.com/timoxley/functional-javascript-workshop)
