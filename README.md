@@ -28,7 +28,22 @@ HTML, CSS, and JavaScript must be mastered first. Together they provide markup a
 
 #### HTML and CSS
 
-- [ ] HTML & CSS is Hard
+- [ ] [HTML & CSS is Hard](https://internetingishard.com/html-and-css/)
+  - [ ] [Introduction](https://internetingishard.com/html-and-css/introduction/)
+  - [ ] [Basic Web Pages](https://internetingishard.com/html-and-css/basic-web-pages/)
+  - [ ] [Linkes and Images](https://internetingishard.com/html-and-css/links-and-images/)
+  - [ ] [Hello, CSS](https://internetingishard.com/html-and-css/hello-css/)
+  - [ ] [CSS Box Model](https://internetingishard.com/html-and-css/css-box-model/)
+  - [ ] [CSS Selectors](https://internetingishard.com/html-and-css/css-selectors/)
+  - [ ] [Floats](https://internetingishard.com/html-and-css/floats/)
+  - [ ] [Flexbox](https://internetingishard.com/html-and-css/flexbox/)
+  - [ ] [Advanced Positioning](https://internetingishard.com/html-and-css/advanced-positioning/)
+  - [ ] [Responsive Design](https://internetingishard.com/html-and-css/responsive-design/)
+  - [ ] [Responsive Images](https://internetingishard.com/html-and-css/responsive-images/)
+  - [ ] [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
+  - [ ] [Forms](https://internetingishard.com/html-and-css/forms/)
+  - [ ] [Web Typography](https://internetingishard.com/html-and-css/web-typography/)
+  
 - [ ] [Nodeschool workshops](https://nodeschool.io)
   - [ ] [learnyouhtml](https://github.com/denysdovhan/learnyouhtml)
 
