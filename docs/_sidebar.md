@@ -1,5 +1,4 @@
-* [Home](/)
-* [Introduction](introduction.md)
+* [Introduction](/)
 * [Standalone Fundamentals](standalone-fundamentals/standalone-fundamentals.md)
   * [HTML](standalone-fundamentals/html.md)
   * [CSS](standalone-fundamentals/css.md)
