@@ -1,12 +1,10 @@
 # Web Developer Training
 
-Test
-
 This is a free and open source web developer training course. It is based on freely available materials. It is self-paced and requires self-motivation. For those interested, I offer mentorship.
 
 ## Mentorship
 
-I will personally mentor you for $500 per month. Mentorship includes 4 one-hour video mentorship sessions per month, as well as random access chats, texts, emails, or whatever throughout the week. We will work together, creating sprints, opening issues, and doing code reviews and pull requests as you master the fundamentals and build a personal project. If you're interested, just reach out:
+I will personally mentor you. Mentorship includes 4 one-hour video mentorship sessions per month, as well as random access chats, texts, emails, or whatever throughout the week. We will work together, creating sprints, opening issues, and doing code reviews and pull requests as you master the fundamentals and build a personal project. If you're interested, just reach out:
 
 * Email: jordan.michael.last@gmail.com
 * Twitter: @lastmjs
@@ -117,3 +115,4 @@ Build a simple calculator with HTML, CSS, and JavaScript. Keep it all in one fil
 #### Static type system (TypeScript)
 
 #### Networking (http, websockets, GraphQL, REST, ?)
+
