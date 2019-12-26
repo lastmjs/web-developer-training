@@ -1,0 +1,21 @@
+{
+  "name": "web-developer-training",
+  "version": "0.0.0",
+  "description": "This is a free and open source web developer training course. It is based on freely available materials. It is self-paced and requires self-motivation. For those interested, I offer mentorship.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lastmjs/web-developer-training.git"
+  },
+  "author": "Jordan Last <jordan.michael.last@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lastmjs/web-developer-training/issues"
+  },
+  "homepage": "https://github.com/lastmjs/web-developer-training#readme",
+  "dependencies": {
+    "docsify-cli": "4.4.0"
+  }
+}
