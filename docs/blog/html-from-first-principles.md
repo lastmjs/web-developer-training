@@ -1,4 +1,6 @@
-# HTML
+# HTML from first principles
+
+1/31/2020
 
 # TLDR
 

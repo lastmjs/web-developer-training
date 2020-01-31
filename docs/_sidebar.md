@@ -1,4 +1,7 @@
 * [Introduction](/)
+* [Blog](blog/blog.md)
+  * [Stop bundling - use Zwitterion](blog/stop-bundling-use-zwitterion.md)
+  * [HTML from first principles](blog/html-from-first-principles.md)
 * [Tutorials](tutorials/tutorials.md)
   * [1 - No tools, no frameworks, no libraries](tutorials/tutorial-1.md)
   * [2 - Add a code editor](tutorials/tutorial-2.md)
@@ -30,5 +33,3 @@
     * [Static Analysis](reference-materials/application-architecture/static-analysis.md)
     * [Networking](reference-materials/application-architecture/networking.md)
   * [Production Deployment](reference-materials/production-deployment/production-deployment.md)
-* [Blog](blog/blog.md)
-  * [Stop bundling - use Zwitterion](blog/stop-bundling-use-zwitterion.md)
