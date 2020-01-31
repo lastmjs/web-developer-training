@@ -1,5 +1,10 @@
 * [Introduction](/)
 * [Blog](blog/blog.md)
+  * [Server-side Web Components: How and Why?](https://scotch.io/tutorials/server-side-web-components-how-and-why)
+  * [Universal Web Components](https://scotch.io/bar-talk/universal-web-components)
+  * [Zwitterion, forget the build step](https://hackernoon.com/zwitterion-transpilation-made-simple-a9baa407b006)
+  * [Advanced GraphQL Directive Permissions with Prisma](https://medium.com/@lastmjs/advanced-graphql-directive-permissions-with-prisma-fdee6f846044)
+
   * [Stop bundling - use Zwitterion](blog/stop-bundling-use-zwitterion.md)
   * [HTML from first principles](blog/html-from-first-principles.md)
 * [Tutorials](tutorials/tutorials.md)
