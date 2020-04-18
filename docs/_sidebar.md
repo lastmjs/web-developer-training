@@ -1,4 +1,5 @@
 * [Introduction](/)
+* [Mentorship](/mentorship.md)
 * [Blog](blog/blog.md)
   * [Server-side Web Components: How and Why?](https://scotch.io/tutorials/server-side-web-components-how-and-why)
   * [Universal Web Components](https://scotch.io/bar-talk/universal-web-components)
