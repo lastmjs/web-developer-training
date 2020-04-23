@@ -27,7 +27,7 @@ I focus on deep practical mastery of the following technologies:
 
 Mentorship is currently $200 per month, and includes 4 personalized 1-hour video sessions (these can be very flexible), with emails, texts, and phone calls as I'm available.
 
-The first session is free. We'll get to know each other, I'll get to know your specific needs, and we'll see if it's a good match, no strings attached.
+The first session is free. We'll get to know each other, learn some web development, and I'll get to know your specific needs. We'll see if it's a good match, no strings attached.
 
 If you're interested, just reach out:
 
