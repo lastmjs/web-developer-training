@@ -2,6 +2,8 @@
 
 My name is Jordan Last, and I would like to mentor you.
 
+If you just want to get started, our first session is free, no strings attached. Just sign up for a time: https://calendly.com/webdevelopertraining
+
 Here's a little bit about me:
 
 * I'm the creator of [Zwitterion](https://github.com/lastmjs/zwitterion), [Podcrypt](https://podcrypt.app/), [Wasm Metal](https://github.com/lastmjs/wasm-metal), and [much more](https://github.com/lastmjs)
@@ -29,11 +31,7 @@ Mentorship is currently $200 per month, and includes 4 personalized 1-hour video
 
 The first session is free. We'll get to know each other, learn some web development, and I'll get to know your specific needs. We'll see if it's a good match, no strings attached.
 
-If you're interested, just reach out:
-
-* Email: jordan.michael.last@gmail.com
-* Twitter: @lastmjs
-* Telegram: @lastmjs
+If you're interested, just sign up for a time: https://calendly.com/webdevelopertraining
 
 If you want to learn more about me:
 
