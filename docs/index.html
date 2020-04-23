@@ -19,7 +19,10 @@
       repo: 'https://github.com/lastmjs/web-developer-training',
       // homepage: 'mentor.md',
       loadSidebar: true,
-      routerMode: 'history'
+      routerMode: 'history',
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
