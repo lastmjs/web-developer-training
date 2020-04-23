@@ -2,7 +2,7 @@
 
 My name is Jordan Last, and I would like to mentor you.
 
-If you just want to get started, our first session is free, no strings attached. Just sign up for a time: https://calendly.com/webdevelopertraining
+TLDR: Our first session is free, and then it's $200 per month for 4 personalized 1-hour video sessions. Just sign up for a time: https://calendly.com/webdevelopertraining
 
 Here's a little bit about me:
 
