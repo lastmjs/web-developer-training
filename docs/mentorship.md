@@ -25,7 +25,7 @@ I focus on deep practical mastery of the following technologies:
 * Docker
 * Blockchain
 
-Mentorship is currently $100 per month, and includes 4 personalized 1-hour video sessions (these can be very flexible), with emails, texts, and phone calls as I'm available.
+Mentorship is currently $200 per month, and includes 4 personalized 1-hour video sessions (these can be very flexible), with emails, texts, and phone calls as I'm available.
 
 The first session is free. We'll get to know each other, I'll get to know your specific needs, and we'll see if it's a good match, no strings attached.
 
