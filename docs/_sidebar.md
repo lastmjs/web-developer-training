@@ -5,10 +5,12 @@
   * [Universal Web Components](https://scotch.io/bar-talk/universal-web-components)
   * [Zwitterion, forget the build step](https://hackernoon.com/zwitterion-transpilation-made-simple-a9baa407b006)
   * [Advanced GraphQL Directive Permissions with Prisma](https://medium.com/@lastmjs/advanced-graphql-directive-permissions-with-prisma-fdee6f846044)
-
   * [Stop bundling - use Zwitterion](blog/stop-bundling-use-zwitterion.md)
   * [HTML from first principles](blog/html-from-first-principles.md)
-* [Tutorials](tutorials/tutorials.md)
+* [JavaScript from first principles](javascript-from-first-principles/index.md)
+  * [Primitive data types](javascript-from-first-principles/primitive-data-types)
+
+<!-- * [Tutorials](tutorials/tutorials.md)
   * [1 - No tools, no frameworks, no libraries](tutorials/tutorial-1.md)
   * [2 - Add a code editor](tutorials/tutorial-2.md)
   * [3 - Add Node.js and npm](tutorials/tutorial-3.md)
@@ -38,4 +40,4 @@
     * [Data Structure](reference-materials/application-architecture/data-structure.md)
     * [Static Analysis](reference-materials/application-architecture/static-analysis.md)
     * [Networking](reference-materials/application-architecture/networking.md)
-  * [Production Deployment](reference-materials/production-deployment/production-deployment.md)
+  * [Production Deployment](reference-materials/production-deployment/production-deployment.md) -->
