@@ -2,7 +2,7 @@
 
 ## Video
 
-https://www.youtube.com/watch?v=Yi5jvCCoBIU&lc=UgxSxtooXfSG8L7GibR4AaABAg
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yi5jvCCoBIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Podcast
 
