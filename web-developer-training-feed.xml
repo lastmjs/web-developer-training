@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+    <channel>
+        <title>Web Developer Training</title>
+        <atom:link href="https://webdevelopertraining.org/web-developer-training-feed.xml" rel="self" type="application/rss+xml"/>
+        <link><![CDATA[https://podcrypt.app/podcast-overview?feedUrl=https://webdevelopertraining.org/web-developer-training-feed.xml]]></link>
+        <image>
+			<url>https://webdevelopertraining.org/logo.jpg</url>
+			<title>Web Developer Training</title>
+			<link><![CDATA[https://podcrypt.app/podcast-overview?feedUrl=https://webdevelopertraining.org/web-developer-training-feed.xml]]></link>
+		</image>
+        <description>
+            <![CDATA[
+                Web Developer Training discusses web development and tech in general, focusing on first principles.
+            ]]>
+        </description>
+        <copyright>CC0 1.0 - https://creativecommons.org/publicdomain/zero/1.0</copyright>
+
+        <item>
+            <pubDate>Fri, 01 May 2020 11:00:00 MDT</pubDate>
+            <title>JavaScript from first principles - primitive data types</title>
+            <link><![CDATA[https://podcrypt.app/episode-overview?feedUrl=https://webdevelopertraining.org/web-developer-training-feed.xml&episodeGuid=pLjoSJVQ1Nhrhiq7AOJA5t2wZ9bW4W3l]]></link>
+            <description>
+                <![CDATA[
+                    <p>
+                        As our first step in mastering the first principles of JavaScript, we learn about primitive data types.
+
+                        More details, including a podcast version of the video: 
+
+                        If you're looking for a web development mentor: https://webdevelopertraining.org/mentorship
+                    </p>
+                ]]>
+            </description>
+            <guid isPermaLink="false">pLjoSJVQ1Nhrhiq7AOJA5t2wZ9bW4W3l</guid>
+            <enclosure length="22273437" type="audio/mpeg" url="https://web-developer-training.s3-us-west-2.amazonaws.com/javascript-from-first-principles-primitive-data-types.mp3" />
+        </item>
+
+    </channel>
+</rss>
