@@ -23,13 +23,9 @@
             <link><![CDATA[https://podcrypt.app/episode-overview?feedUrl=https://webdevelopertraining.org/web-developer-training-feed.xml&episodeGuid=pLjoSJVQ1Nhrhiq7AOJA5t2wZ9bW4W3l]]></link>
             <description>
                 <![CDATA[
-                    <p>
-                        As our first step in mastering the first principles of JavaScript, we learn about primitive data types.
-
-                        More details, including a podcast version of the video: 
-
-                        If you're looking for a web development mentor: https://webdevelopertraining.org/mentorship
-                    </p>
+                    <p>As our first step in mastering the first principles of JavaScript, we learn about primitive data types.</p>
+                    <p>For more details, including links to the video and podcast: <a href="https://webdevelopertraining.org/javascript-from-first-principles/primitive-data-types" target="_blank">https://webdevelopertraining.org/javascript-from-first-principles/primitive-data-types</a></p>
+                    <p>If you're looking for a web development mentor: <a href="https://webdevelopertraining.org/mentorship" target="_blank">https://webdevelopertraining.org/mentorship</a></p>
                 ]]>
             </description>
             <guid isPermaLink="false">pLjoSJVQ1Nhrhiq7AOJA5t2wZ9bW4W3l</guid>
