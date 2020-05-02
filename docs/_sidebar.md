@@ -9,7 +9,7 @@
   * [HTML from first principles](blog/html-from-first-principles.md)
 * [JavaScript from first principles](javascript-from-first-principles/index.md)
   * [Primitive data types](javascript-from-first-principles/primitive-data-types)
-
+  * [Objects - high level overview](javascript-from-first-principles/objects-high-level-overview)
 <!-- * [Tutorials](tutorials/tutorials.md)
   * [1 - No tools, no frameworks, no libraries](tutorials/tutorial-1.md)
   * [2 - Add a code editor](tutorials/tutorial-2.md)
