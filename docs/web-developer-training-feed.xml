@@ -33,5 +33,24 @@
             <enclosure length="22273437" type="audio/mpeg" url="https://web-developer-training.s3-us-west-2.amazonaws.com/javascript-from-first-principles-primitive-data-types.mp3" />
         </item>
 
+        <item>
+            <pubDate>Sat, 02 May 2020 13:00:00 MDT</pubDate>
+            <title>JavaScript from first principles - objects - high level overview</title>
+            <link><![CDATA[https://podcrypt.app/episode-overview?feedUrl=https://webdevelopertraining.org/web-developer-training-feed.xml&episodeGuid=rJSXGOcT5zC88Te1D2k8EA6lpMjjSwLS]]></link>
+            <description>
+                <![CDATA[
+                    In the next step of mastering the first principles of JavaScript, we get a high level overview of objects.
+
+                    For more details, including links to the video and podcast: <a href="https://webdevelopertraining.org/javascript-from-first-principles/objects-high-level-overview" target="_blank">https://webdevelopertraining.org/javascript-from-first-principles/objects-high-level-overview</a>
+
+                    For discussion with myself and others: <a href="https://t.me/webdevelopertraining" target="_blank">https://t.me/webdevelopertraining</a>
+
+                    If you're looking for a web development mentor: <a href="https://webdevelopertraining.org/mentorship" target="_blank">https://webdevelopertraining.org/mentorship</a>
+                ]]>
+            </description>
+            <guid isPermaLink="false">rJSXGOcT5zC88Te1D2k8EA6lpMjjSwLS</guid>
+            <enclosure length="19997517" type="audio/mpeg" url="https://web-developer-training.s3-us-west-2.amazonaws.com/javascript-from-first-principles-objects-high-level-overview.mp3" />
+        </item>
+
     </channel>
 </rss>
