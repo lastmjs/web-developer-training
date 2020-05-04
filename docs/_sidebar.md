@@ -10,7 +10,8 @@
 * [JavaScript from first principles](javascript-from-first-principles/index.md)
   * [Primitive data types](javascript-from-first-principles/primitive-data-types)
   * [Objects - high level overview](javascript-from-first-principles/objects-high-level-overview)
-  
+  * [Objects - creation](javascript-from-first-principles/creation)
+
 <!-- * [Tutorials](tutorials/tutorials.md)
   * [1 - No tools, no frameworks, no libraries](tutorials/tutorial-1.md)
   * [2 - Add a code editor](tutorials/tutorial-2.md)
